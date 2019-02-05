@@ -1,7 +1,7 @@
 # MODULES INPORTEREN
 import pygame # staat niet standaard geinstalleerd, om het te installeren ga naar cmd en type 'pip install pygame' (zonder quotes) 
 import random # randomizer module
-import math # wiskundige berekingen module
+import math 
 
 # ANDERE BESTANDEN INPORTEREN
 import inputbox # inputbox.py -> dit bestand zorgt ervoor dat je een inputbox kan maken
